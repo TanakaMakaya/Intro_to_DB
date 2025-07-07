@@ -1,0 +1,3 @@
+USE Books;
+
+SHOW TABLES;
